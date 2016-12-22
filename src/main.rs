@@ -1,6 +1,6 @@
 mod get_input;
-mod day3;
+mod day4;
 
 fn main() {
-    day3::solve();
+    day4::solve();
 }
