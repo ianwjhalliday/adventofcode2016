@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Ian Halliday <ianhall@microsoft.com>"]
 
 [dependencies]
+rust-crypto = { path = "deps/rust-crypto" }
