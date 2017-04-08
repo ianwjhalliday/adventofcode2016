@@ -1,8 +1,8 @@
 extern crate crypto;
 
 mod get_input;
-mod day6;
+mod day7;
 
 fn main() {
-    day6::solve();
+    day7::solve();
 }
